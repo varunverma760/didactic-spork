@@ -252,31 +252,24 @@ section {
   margin-top: 5rem;
     
 }
-.main-div{
-  display: flex;
-  flex-direction: row;
-  justify-content: around;
-  align-items: center;
-  width: 1200px;
 
-}
-.abouts .main-div .video-container {
+.abouts  .video-container {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
 
-.abouts .main-div .video-container video {
+.abouts .video-container video {
   border-radius: 1rem;
   width: 100%;
 }
 
-.abouts .main-div .video-container .controls {
+.abouts  .video-container .controls {
   text-align: center;
   padding: 2rem 0;
 }
 
-.abouts .main-div .video-container .controls span {
+.abouts  .video-container .controls span {
   display: inline-block;
   height: 2rem;
   width: 2rem;
@@ -286,12 +279,12 @@ section {
   margin: .7rem;
 }
 
-.abouts .main-div .video-container .controls span:hover {
+.abouts  .video-container .controls span:hover {
   background: #29d9d5;
 }
 
 
-.abouts .main-div .content {
+.abouts  .content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
@@ -312,13 +305,13 @@ section {
   font-size: 2rem;
 }
 
-.abouts .main-div .content h3 {
+.abouts  .content h3 {
   color: #111;
   font-size: 4rem;
   margin-top: .5rem;
 }
 
-.abouts .main-div .content p {
+.abouts  .content p {
   padding: 1rem 0;
   font-size: 1.4rem;
   color: #111;
@@ -348,23 +341,23 @@ section {
   margin-top: 5rem;
     
 }
-.abt .main-div .video-container {
+.abt  .video-container {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
 
-.abt .main-div .video-container video {
+.abt  .video-container video {
   border-radius: 1rem;
   width: 100%;
 }
 
-.abt .main-div .video-container .controls {
+.abt  .video-container .controls {
   text-align: center;
   padding: 2rem 0;
 }
 
-.abt .main-div .video-container .controls span {
+.abt  .video-container .controls span {
   display: inline-block;
   height: 2rem;
   width: 2rem;
@@ -374,11 +367,11 @@ section {
   margin: .7rem;
 }
 
-.abt  .main-div .video-container .controls span:hover {
+.abt   .video-container .controls span:hover {
   background: #29d9d5;
 }
 
-.abt .main-div .content {
+.abt \ .content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
@@ -392,18 +385,18 @@ section {
   text-align: center;
 }
 
-.abt .main-div .content span {
+.abt  .content span {
   color: #29d9d5;
   font-size: 2rem;
 }
 
-.abt .main-div .content h3 {
+.abt  .content h3 {
   color: #fff;
   font-size: 4rem;
   margin-top: .5rem;
 }
 
-.abt .main-div .content p {
+.abt  .content p {
   padding: 1rem 0;
   font-size: 1.4rem;
   color: #aaa;
@@ -423,23 +416,23 @@ section {
   margin-top: 5rem;
     
 }
-.aboutss .main-div .video-container {
+.aboutss  .video-container {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
 
-.aboutss .main-div .video-container video {
+.aboutss  .video-container video {
   border-radius: 1rem;
   width: 100%;
 }
 
-.aboutss .main-div .video-container .controls {
+.aboutss  .video-container .controls {
   text-align: center;
   padding: 2rem 0;
 }
 
-.aboutss .main-div .video-container .controls span {
+.aboutss  .video-container .controls span {
   display: inline-block;
   height: 2rem;
   width: 2rem;
@@ -449,29 +442,29 @@ section {
   margin: .7rem;
 }
 
-.aboutss .main-div .video-container .controls span:hover {
+.aboutss .video-container .controls span:hover {
   background: #29d9d5;
 }
 
-.aboutss .main-div .content {
+.aboutss  .content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
   margin-bottom: 5rem;
 }
 
-.aboutss .main-div .content span {
+.aboutss  .content span {
   color: #29d9d5;
   font-size: 2rem;
 }
 
-.aboutss .main-div .content h3 {
+.aboutss  .content h3 {
   color: #fff;
   font-size: 4rem;
   margin-top: .5rem;
 }
 
-.aboutss .main-div .content p {
+.aboutss  .content p {
   padding: 1rem 0;
   font-size: 1.4rem;
   color: #aaa;
@@ -491,23 +484,23 @@ section {
   margin-top: 5rem;
     
 }
-.abts .main-div .video-container {
+.abts  .video-container {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
 
-.abts .main-div .video-container video {
+.abts  .video-container video {
   border-radius: 1rem;
   width: 100%;
 }
 
-.abts .main-div .video-container .controls {
+.abts  .video-container .controls {
   text-align: center;
   padding: 2rem 0;
 }
 
-.abts .main-div .video-container .controls span {
+.abts  .video-container .controls span {
   display: inline-block;
   height: 2rem;
   width: 2rem;
@@ -517,11 +510,11 @@ section {
   margin: .7rem;
 }
 
-.abts .main-div .video-container .controls span:hover {
+.abts  .video-container .controls span:hover {
   background: #29d9d5;
 }
 
-.abts .main-div .content {
+.abts  .content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
@@ -533,13 +526,13 @@ section {
   font-size: 2rem;
 }
 
-.abts .main-div .content h3 {
+.abts  .content h3 {
   color: #fff;
   font-size: 4rem;
   margin-top: .5rem;
 }
 
-.abts .main-div .content p {
+.abts  .content p {
   padding: 1rem 0;
   font-size: 1.4rem;
   color: #aaa;
