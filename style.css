@@ -128,8 +128,8 @@ section {
   margin-top: 9rem;
   width: 90%;
   border-radius: 1rem;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 17, 17, 0.7)), to(rgba(17, 17, 17, 0.7))), url("https://drive.google.com/file/d/1nv1tIHCwjfFkt8-rDS_lha3UVAGdbRku/view?usp=sharing") no-repeat;
-  background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url("https://drive.google.com/file/d/1nv1tIHCwjfFkt8-rDS_lha3UVAGdbRku/view?usp=sharing") no-repeat;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(17, 17, 17, 0.7)), to(rgba(17, 17, 17, 0.7))), url("https://miro.medium.com/max/875/1*OF0xEMkWBv-69zvmNs6RDQ.gif") no-repeat;
+  background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url("https://miro.medium.com/max/875/1*OF0xEMkWBv-69zvmNs6RDQ.gif") no-repeat;
  background-size: cover;
   background-position: center;
   display: -webkit-box;
