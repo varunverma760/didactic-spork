@@ -134,8 +134,8 @@ section {
   margin-top: 9rem;
   width: 90%;
   border-radius: 1rem;
-  background: -webkit-gradient url(./christinunspla.jpg) no-repeat;
-  background: linear-gradient url(./christinunspla.jpg) no-repeat;
+  background: -webkit-gradient url(linear, left top, left bottom, from(rgba(17, 17, 17, 0.7)), to(rgba(17, 17, 17, 0.7)))(./christinunspla.jpg) no-repeat;
+  background: linear-gradient url(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)),(./christinunspla.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   display: -webkit-box;
