@@ -236,6 +236,13 @@ section {
     color: #aaa;
     line-height: 2;
 }
+.img {
+  width: 100%;
+  height: auto;
+  max-width: 400px;
+  max-height: 400px;
+  border-radius: 10%;
+}
 
 
 
@@ -252,8 +259,7 @@ section {
   margin-top: 5rem;
     
 }
-
-.abouts  .video-container {
+.abouts .video-container {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
@@ -264,12 +270,12 @@ section {
   width: 100%;
 }
 
-.abouts  .video-container .controls {
+.abouts .video-container .controls {
   text-align: center;
   padding: 2rem 0;
 }
 
-.abouts  .video-container .controls span {
+.abouts .video-container .controls span {
   display: inline-block;
   height: 2rem;
   width: 2rem;
@@ -279,51 +285,33 @@ section {
   margin: .7rem;
 }
 
-.abouts  .video-container .controls span:hover {
+.abouts .video-container .controls span:hover {
   background: #29d9d5;
 }
 
-
-.abouts  .content {
+.abouts .content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
   margin-bottom: 5rem;
-  
-  border: 2px solid #fff;
-  background: #fff;
-  border-radius: 1rem;
-  padding: 20px;
-    /* width: 300px;
-    heigth: 800px; */
-  text-align: center;
-  
 }
 
-.content span {
+.abouts .content span {
   color: #29d9d5;
   font-size: 2rem;
 }
 
-.abouts  .content h3 {
-  color: #111;
+.abouts .content h3 {
+  color: #fff;
   font-size: 4rem;
   margin-top: .5rem;
 }
 
-.abouts  .content p {
+.abouts .content p {
   padding: 1rem 0;
   font-size: 1.4rem;
-  color: #111;
+  color: #aaa;
   line-height: 2;
-}
-
-.img {
-  width: 100%;
-  height: auto;
-  max-width: 400px;
-  max-height: 400px;
-  border-radius: 10%;
 }
 
 
@@ -331,7 +319,6 @@ section {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  flex-direction: row;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -341,23 +328,23 @@ section {
   margin-top: 5rem;
     
 }
-.abt  .video-container {
+.abt .video-container {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
 
-.abt  .video-container video {
+.abt .video-container video {
   border-radius: 1rem;
   width: 100%;
 }
 
-.abt  .video-container .controls {
+.abt .video-container .controls {
   text-align: center;
   padding: 2rem 0;
 }
 
-.abt  .video-container .controls span {
+.abt .video-container .controls span {
   display: inline-block;
   height: 2rem;
   width: 2rem;
@@ -367,36 +354,29 @@ section {
   margin: .7rem;
 }
 
-.abt   .video-container .controls span:hover {
+.abt .video-container .controls span:hover {
   background: #29d9d5;
 }
 
-.abt \ .content {
+.abt .content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
   margin-bottom: 5rem;
-  border: 2px solid #fff;
-  background: #fff;
-  border-radius: 1rem;
-  padding: 20px;
-    /* width: 300px;
-    heigth: 800px; */
-  text-align: center;
 }
 
-.abt  .content span {
+.abt .content span {
   color: #29d9d5;
   font-size: 2rem;
 }
 
-.abt  .content h3 {
+.abt .content h3 {
   color: #fff;
   font-size: 4rem;
   margin-top: .5rem;
 }
 
-.abt  .content p {
+.abt .content p {
   padding: 1rem 0;
   font-size: 1.4rem;
   color: #aaa;
@@ -416,23 +396,23 @@ section {
   margin-top: 5rem;
     
 }
-.aboutss  .video-container {
+.aboutss .video-container {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
 
-.aboutss  .video-container video {
+.aboutss .video-container video {
   border-radius: 1rem;
   width: 100%;
 }
 
-.aboutss  .video-container .controls {
+.aboutss .video-container .controls {
   text-align: center;
   padding: 2rem 0;
 }
 
-.aboutss  .video-container .controls span {
+.aboutss .video-container .controls span {
   display: inline-block;
   height: 2rem;
   width: 2rem;
@@ -446,25 +426,25 @@ section {
   background: #29d9d5;
 }
 
-.aboutss  .content {
+.aboutss .content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
   margin-bottom: 5rem;
 }
 
-.aboutss  .content span {
+.aboutss .content span {
   color: #29d9d5;
   font-size: 2rem;
 }
 
-.aboutss  .content h3 {
+.aboutss .content h3 {
   color: #fff;
   font-size: 4rem;
   margin-top: .5rem;
 }
 
-.aboutss  .content p {
+.aboutss .content p {
   padding: 1rem 0;
   font-size: 1.4rem;
   color: #aaa;
@@ -484,23 +464,23 @@ section {
   margin-top: 5rem;
     
 }
-.abts  .video-container {
+.abts .video-container {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
 }
 
-.abts  .video-container video {
+.abts .video-container video {
   border-radius: 1rem;
   width: 100%;
 }
 
-.abts  .video-container .controls {
+.abts .video-container .controls {
   text-align: center;
   padding: 2rem 0;
 }
 
-.abts  .video-container .controls span {
+.abts .video-container .controls span {
   display: inline-block;
   height: 2rem;
   width: 2rem;
@@ -510,29 +490,29 @@ section {
   margin: .7rem;
 }
 
-.abts  .video-container .controls span:hover {
+.abts .video-container .controls span:hover {
   background: #29d9d5;
 }
 
-.abts  .content {
+.abts .content {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 42rem;
           flex: 1 1 42rem;
   margin-bottom: 5rem;
 }
 
-.abts .main-div .content span {
+.abts .content span {
   color: #29d9d5;
   font-size: 2rem;
 }
 
-.abts  .content h3 {
+.abts .content h3 {
   color: #fff;
   font-size: 4rem;
   margin-top: .5rem;
 }
 
-.abts  .content p {
+.abts .content p {
   padding: 1rem 0;
   font-size: 1.4rem;
   color: #aaa;
